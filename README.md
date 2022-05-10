@@ -10,7 +10,7 @@
 
 - basic styles eg. background-color;color;font;position;display
 
-  ## HTML-CSS
+  ### HTML-CSS
 
   - multipage with css
 
