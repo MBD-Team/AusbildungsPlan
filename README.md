@@ -26,7 +26,7 @@
   ### TS
 
   - typescript intro
-    - -> typescript links
+    - -> typescript links [^4] [^5] [^6]
   - convert js program to ts
 
 ## HTML-CSS-TS
@@ -92,9 +92,9 @@
 ## HTML
 - [^1]: https://www.w3schools.com/html/
 ## CSS
-- [^1]: https://www.w3schools.com/css/
-- [^2]: https://www.youtube.com/watch?v=1PnVor36_40
+- [^2]: https://www.w3schools.com/css/
+- [^3]: https://www.youtube.com/watch?v=1PnVor36_40
 ## typescript
-- [^1]: https://basarat.gitbook.io/typescript/
-- [^2]: https://www.youtube.com/watch?v=ahCwqrYpIuM 
-- [^3]: https://www.youtube.com/watch?v=BCg4U1FzODs
+- [^4]: https://basarat.gitbook.io/typescript/
+- [^5]: https://www.youtube.com/watch?v=ahCwqrYpIuM 
+- [^6]: https://www.youtube.com/watch?v=BCg4U1FzODs
