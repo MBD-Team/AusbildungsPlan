@@ -9,6 +9,7 @@
 ## CSS
 
 - basic styles eg. background-color;color;font;position;display
+- -> CSS links [^2] [^3]
 
   ### HTML-CSS
 
@@ -89,7 +90,7 @@
 
 # sources
 ## HTML
-- [^html1]: https://www.w3schools.com/html/
+- [^1]: https://www.w3schools.com/html/
 ## CSS
 - [^1]: https://www.w3schools.com/css/
 - [^2]: https://www.youtube.com/watch?v=1PnVor36_40
