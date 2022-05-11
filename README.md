@@ -2,14 +2,12 @@
 
 ## HTML
 
-- basic tags and attributes
-  - -> HTML links [^1]
+- HTML intro [^1]
 - basic multipage routing
 
 ## CSS
 
-- basic styles eg. background-color;color;font;position;display
-- -> CSS links [^2] [^3]
+- intro [^2] [^3]
 
   ### HTML-CSS
 
@@ -19,8 +17,8 @@
 
 ## JS
 
-- JS tutorial -> nodemon
-  - -> JS links  [^4]
+- JS tutorial  [^4] 
+  - nodemon
 - html + js eg. form handling/minigame
   - optional also css
 
@@ -36,9 +34,7 @@
 
 ## git / github
 
-- git intro
-  - -> git links [^8]
-- git tutorial
+- git intro [^8]
 - first github project
 
 ## Vue3
