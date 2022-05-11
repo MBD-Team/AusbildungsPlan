@@ -89,11 +89,11 @@
 
 # sources
 ## HTML
-- [^1]: https://www.w3schools.com/html/
+- [^html1]: https://www.w3schools.com/html/
 ## CSS
-- https://www.w3schools.com/css/
-- https://www.youtube.com/watch?v=1PnVor36_40
+- [^1]: https://www.w3schools.com/css/
+- [^2]: https://www.youtube.com/watch?v=1PnVor36_40
 ## typescript
-- https://basarat.gitbook.io/typescript/
-- https://www.youtube.com/watch?v=ahCwqrYpIuM 
-- https://www.youtube.com/watch?v=BCg4U1FzODs
+- [^1]: https://basarat.gitbook.io/typescript/
+- [^2]: https://www.youtube.com/watch?v=ahCwqrYpIuM 
+- [^3]: https://www.youtube.com/watch?v=BCg4U1FzODs
