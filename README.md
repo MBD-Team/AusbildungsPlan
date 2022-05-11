@@ -41,7 +41,8 @@
 
 - vue mastery ?
 - convert HTML-CSS-JS project to vue 3 as git project
-- composition api intro
+- composition api intro 
+- setup script
 
 ##  SCSS
 
@@ -55,3 +56,31 @@
 ## Sonstiges
 
 - fireship for rnd computerscience content
+- DNS
+- Big-O Notation
+- Funtional Programming
+- Request lifecycle
+- How the internet works
+- Betriebssysteme
+- kommunikationssysteme
+- low level programming
+-   - compiler
+-   - interpreter
+- algorythmik
+- Datenstrukturen
+- Computersysteme
+- Mathe ABC
+- concurrency && parrallelism
+- paradigmen
+-   - haskell
+-   - prolog
+- komplexität
+-   - laufzeit
+-   - speicher
+- Turing completeness
+- It sicherheit
+-   - buffer overflow
+-   - sql injection
+-   - cryptography
+-   - etc
+- Neural networks & Ai
