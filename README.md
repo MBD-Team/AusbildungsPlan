@@ -3,7 +3,7 @@
 ## HTML
 
 - basic tags and attributes
-  - W3 schools
+  - -> HTML links [^1]
 - basic multipage routing
 
 ## CSS
@@ -25,6 +25,7 @@
   ### TS
 
   - typescript intro
+    - -> typescript links
   - convert js program to ts
 
 ## HTML-CSS-TS
@@ -84,3 +85,15 @@
 -   - cryptography
 -   - etc
 - Neural networks & Ai
+
+
+# sources
+## HTML
+- [^1]: https://www.w3schools.com/html/
+## CSS
+- https://www.w3schools.com/css/
+- https://www.youtube.com/watch?v=1PnVor36_40
+## typescript
+- https://basarat.gitbook.io/typescript/
+- https://www.youtube.com/watch?v=ahCwqrYpIuM 
+- https://www.youtube.com/watch?v=BCg4U1FzODs
