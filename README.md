@@ -50,7 +50,7 @@
 
 ##  SCSS
 
-- intro 
+- intro [^10]
 - convert css file to scss 
 
 ## php
