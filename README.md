@@ -23,7 +23,7 @@
 
   - typescript intro
 
-## HTML-CSS-JS
+## HTML-CSS-TS
 
 - Full website with multipage routing features and design
 
