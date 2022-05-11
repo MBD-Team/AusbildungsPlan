@@ -106,9 +106,9 @@
 [^7]: https://www.youtube.com/watch?v=BCg4U1FzODs
 
 [//]: Git/github
-[^8]: gitlink plz 
+[^8]: linkplaceholder
 
-[//]: Vue 3
+[//]: Vue3
 [^9]: https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3
 
 [//]: SCSS
