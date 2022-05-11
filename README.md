@@ -55,7 +55,7 @@
 
 ## Sonstiges
 
-- fireship for rnd computerscience content
+- fireship for rnd computerscience content [https://www.youtube.com/c/Fireship]
 - DNS
 - Big-O Notation
 - Funtional Programming
