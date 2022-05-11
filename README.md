@@ -20,13 +20,14 @@
 ## JS
 
 - JS tutorial -> nodemon
+  - -> JS links  [^4]
 - html + js eg. form handling/minigame
   - optional also css
 
   ### TS
 
   - typescript intro
-    - -> typescript links [^4] [^5] [^6]
+    - -> typescript links [^5] [^6] [^7]
   - convert js program to ts
 
 ## HTML-CSS-TS
@@ -36,19 +37,20 @@
 ## git / github
 
 - git intro
+  - -> git links [^8]
 - git tutorial
 - first github project
 
 ## Vue3
 
-- vue mastery ?
+- vue mastery [^9]
 - convert HTML-CSS-JS project to vue 3 as git project
 - composition api intro 
 - setup script
 
 ##  SCSS
 
-- intro
+- intro 
 - convert css file to scss 
 
 ## php
@@ -91,9 +93,23 @@
 [//]: HTML
 [^1]: https://www.w3schools.com/html/
 
+[//]: CSS
 [^2]: https://www.w3schools.com/css/
 [^3]: https://www.youtube.com/watch?v=1PnVor36_40
 
-[^4]: https://basarat.gitbook.io/typescript/
-[^5]: https://www.youtube.com/watch?v=ahCwqrYpIuM 
- [^6]: https://www.youtube.com/watch?v=BCg4U1FzODs
+[//]: JS
+[^4]: https://www.w3schools.com/js/
+
+[//]: TS
+[^5]: https://basarat.gitbook.io/typescript/
+[^6]: https://www.youtube.com/watch?v=ahCwqrYpIuM 
+[^7]: https://www.youtube.com/watch?v=BCg4U1FzODs
+
+[//]: Git/github
+[^8]: gitlink plz 
+
+[//]: Vue 3
+[^9]: https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3
+
+[//]: SCSS
+[^10]: https://www.youtube.com/watch?v=akDIJa0AP5c
