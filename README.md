@@ -88,13 +88,12 @@
 - Neural networks & Ai
 
 
-# sources
-## HTML
-- [^1]: https://www.w3schools.com/html/
-## CSS
-- [^2]: https://www.w3schools.com/css/
-- [^3]: https://www.youtube.com/watch?v=1PnVor36_40
-## typescript
-- [^4]: https://basarat.gitbook.io/typescript/
-- [^5]: https://www.youtube.com/watch?v=ahCwqrYpIuM 
-- [^6]: https://www.youtube.com/watch?v=BCg4U1FzODs
+[//]: HTML
+[^1]: https://www.w3schools.com/html/
+
+[^2]: https://www.w3schools.com/css/
+[^3]: https://www.youtube.com/watch?v=1PnVor36_40
+
+[^4]: https://basarat.gitbook.io/typescript/
+[^5]: https://www.youtube.com/watch?v=ahCwqrYpIuM 
+ [^6]: https://www.youtube.com/watch?v=BCg4U1FzODs
