@@ -3,7 +3,7 @@
 ## HTML
 
 - basic tags and attributes
-- complete single page
+  - W3 schools
 - basic multipage routing
 
 ## CSS
@@ -12,16 +12,20 @@
 
   ### HTML-CSS
 
+  - complete single page
+    - eg. about me / about company
   - multipage with css
 
 ## JS
 
 - JS tutorial -> nodemon
 - html + js eg. form handling/minigame
+  - optional also css
 
   ### TS
 
   - typescript intro
+  - convert js program to ts
 
 ## HTML-CSS-TS
 
@@ -38,6 +42,11 @@
 - vue mastery ?
 - convert HTML-CSS-JS project to vue 3 as git project
 - composition api intro
+
+##  SCSS
+
+- intro
+- convert css file to scss 
 
 ## php
 
