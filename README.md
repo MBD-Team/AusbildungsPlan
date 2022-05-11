@@ -84,6 +84,7 @@
 -   - cryptography
 -   - etc
 - Neural networks & Ai
+- design patterns
 
 
 [//]: HTML
