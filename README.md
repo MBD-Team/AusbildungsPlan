@@ -90,6 +90,7 @@
   - MVC
   - Tokens
 - debugging
+- code quality
 
 ### Useful
 
@@ -119,7 +120,7 @@
 ### stuff
 
 - [fireship for rnd computerscience content](https://www.youtube.com/c/Fireship "Fireship youtube")
-- [Informatics Basics (fireship)](https://www.youtube.com/watch?v=UVR9lhUGAyU&list=PLZTVkU9_upPo29STlH46MTMOn-uxycMc6)
+- [Informatics Basics (fireship)](https://www.youtube.com/watch?v=ok-plXXHlWw&list=PLZTVkU9_upPo1IeTq9POctUVjBgRUCsLD)
 
 
 
