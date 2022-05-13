@@ -21,6 +21,7 @@
   - nodemon
 - html + js eg. form handling/minigame
   - optional also css
+- node.js
 
   ### TS
 
@@ -39,32 +40,58 @@
 ## Vue3
 
 - vue mastery [^9]
+  - beginner path
+  - intermediate path
+  - advanced path
 - convert HTML-CSS-JS project to vue 3 as git project
 - composition api intro 
 - setup script
+- component lifecycle
+
+## React (native)
+
+- intro 
+- jsx
+- useEffect / Lifecycle Hooks
 
 ##  SCSS
 
 - intro [^10]
 - convert css file to scss 
 
+## SQL
+- intro
+- ERM
+
 ## php
 
 - einführung
+- laravel
+- eloquent
+- testing (unit tests)
 
 ## Sonstiges
 
 ### Important
 
+- JIRA / SCRUM
 - How the internet works
+  - http
   - DNS 
 - Big-O Notation 
-- Funtional Programming 
-- algorythmik
+  - komplexität
+    - laufzeit
+    - speicher
+- Functional Programming 
+- algorithmik
 - Datenstrukturen
 - concurrency && parrallelism
+- design patterns
+  - MVC
+  - Tokens
+- debugging
 
-### Usefull
+### Useful
 
 - low level programming
   - compiler
@@ -72,15 +99,11 @@
 - paradigmen
   - haskell
   - prolog
-- komplexität
-  - laufzeit
-  - speicher
 - It sicherheit
   - buffer overflow
   - sql injection
   - cryptography
   - etc
-- design patterns
 - Neural networks & Ai
 - Computersysteme
 - Mathe AB
@@ -88,7 +111,10 @@
 - Betriebssysteme
 - kommunikationssysteme
 - Turing completeness
-- how to design anwenderfreundlich
+- how to design (UX)
+  - responsive
+  - intuitive
+- PWA vs. native App
 
 ### stuff
 
