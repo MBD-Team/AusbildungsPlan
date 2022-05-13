@@ -22,6 +22,7 @@
   - nodemon
 - html + js eg. form handling/minigame
   - optional also css
+- jsdoc
 
   ### TS
 
