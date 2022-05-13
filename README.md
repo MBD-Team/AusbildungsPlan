@@ -18,10 +18,10 @@
 ## JS
 
 - JS tutorial  [^4] 
+- node.js
   - nodemon
 - html + js eg. form handling/minigame
   - optional also css
-- node.js
 
   ### TS
 
