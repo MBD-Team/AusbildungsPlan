@@ -54,36 +54,48 @@
 
 ## Sonstiges
 
-- [fireship for rnd computerscience content](https://www.youtube.com/c/Fireship "Fireship youtube")
-- DNS !important
-- Big-O Notation !important
-- Funtional Programming !important
-- Request lifecycle
-- How the internet works !important
-- Betriebssysteme
-- kommunikationssysteme
+### Important
+
+- How the internet works
+  - DNS 
+- Big-O Notation 
+- Funtional Programming 
+- algorythmik
+- Datenstrukturen
+- concurrency && parrallelism
+
+### Usefull
+
 - low level programming
--   - compiler
--   - interpreter
-- algorythmik !important
-- Datenstrukturen !important
+  - compiler
+  - interpreter
+- paradigmen
+  - haskell
+  - prolog
+- komplexität
+  - laufzeit
+  - speicher
+- It sicherheit
+  - buffer overflow
+  - sql injection
+  - cryptography
+  - etc
+- design patterns
+- Neural networks & Ai
 - Computersysteme
 - Mathe AB
-- concurrency && parrallelism !important
-- paradigmen
--   - haskell
--   - prolog
-- komplexität
--   - laufzeit
--   - speicher
+- Request lifecycle
+- Betriebssysteme
+- kommunikationssysteme
 - Turing completeness
-- It sicherheit
--   - buffer overflow
--   - sql injection
--   - cryptography
--   - etc
-- Neural networks & Ai
-- design patterns
+
+### stuff
+
+- [fireship for rnd computerscience content](https://www.youtube.com/c/Fireship "Fireship youtube")
+
+
+
+
 
 
 [//]: HTML
