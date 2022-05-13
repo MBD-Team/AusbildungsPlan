@@ -88,6 +88,7 @@
 - Betriebssysteme
 - kommunikationssysteme
 - Turing completeness
+- how to design anwenderfreundlich
 
 ### stuff
 
