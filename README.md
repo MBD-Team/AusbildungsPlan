@@ -103,7 +103,7 @@
 [^7]: https://www.youtube.com/watch?v=BCg4U1FzODs
 
 [//]: Git/github
-[^8]: linkplaceholder
+[^8]: https://learngitbranching.js.org
 
 [//]: Vue3
 [^9]: https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3
