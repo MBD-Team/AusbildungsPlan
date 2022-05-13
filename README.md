@@ -24,8 +24,7 @@
 
   ### TS
 
-  - typescript intro
-    - -> typescript links [^5] [^6] [^7]
+  - typescript intro [^5] [^6] [^7]
   - convert js program to ts
 
 ## HTML-CSS-TS
