@@ -56,21 +56,21 @@
 ## Sonstiges
 
 - [fireship for rnd computerscience content](https://www.youtube.com/c/Fireship "Fireship youtube")
-- DNS
-- Big-O Notation
-- Funtional Programming
+- DNS !important
+- Big-O Notation !important
+- Funtional Programming !important
 - Request lifecycle
-- How the internet works
+- How the internet works !important
 - Betriebssysteme
 - kommunikationssysteme
 - low level programming
 -   - compiler
 -   - interpreter
-- algorythmik
-- Datenstrukturen
+- algorythmik !important
+- Datenstrukturen !important
 - Computersysteme
-- Mathe ABC
-- concurrency && parrallelism
+- Mathe AB
+- concurrency && parrallelism !important
 - paradigmen
 -   - haskell
 -   - prolog
