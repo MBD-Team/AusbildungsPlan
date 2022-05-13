@@ -119,6 +119,7 @@
 ### stuff
 
 - [fireship for rnd computerscience content](https://www.youtube.com/c/Fireship "Fireship youtube")
+- [filtered fireship playlist](https://www.youtube.com/watch?v=UVR9lhUGAyU&list=PLZTVkU9_upPo29STlH46MTMOn-uxycMc6)
 
 
 
