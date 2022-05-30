@@ -1,13 +1,17 @@
 # AusbildungsPlan
+## General
+-  section 1 and 2 as intro [^0]
 
 ## HTML
 
-- HTML intro [^1]
+- HTML intro [^0]:section 3-5
+- w3schools[^1]
 - basic multipage routing
 
 ## CSS
 
-- intro [^2] [^3]
+- intro [^0]:section 6-12
+- more css [^2] [^3]
 - bootstrap intro
   ### HTML-CSS
 
@@ -16,8 +20,8 @@
   - multipage with css
 
 ## JS
-
-- JS tutorial  [^4] 
+- intro [^4] 
+- JS tutorial [^0]:section 13-28 
 - node.js
   - nodemon
 - html + js eg. form handling/minigame
@@ -127,7 +131,7 @@
 
 
 
-
+[^0]: https://www.udemy.com/home/my-courses/learning/
 
 [//]: HTML
 [^1]: https://www.w3schools.com/html/
