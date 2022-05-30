@@ -92,6 +92,7 @@
   - Tokens
 - debugging
 - code quality
+- RegEx
 
 ### Useful
 
