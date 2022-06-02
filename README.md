@@ -22,7 +22,6 @@
 - intro [^4] 
 - JS tutorial [^0]:section 13-28 
 - node.js
-  - nodemon
 - html + js eg. form handling/minigame
   - optional also css
 - jsdoc
