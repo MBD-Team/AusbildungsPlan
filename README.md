@@ -12,7 +12,6 @@
 
 - intro [^0]:section 6-12
 - more css [^2] [^3]
-- bootstrap intro
   ### HTML-CSS
 
   - complete single page
