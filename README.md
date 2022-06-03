@@ -30,7 +30,7 @@
 - jsdoc
 
   ### TS
-
+  - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
   - typescript intro [^5] [^6] [^7]
   - convert js program to ts
 
