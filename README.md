@@ -29,19 +29,12 @@
   - optional also css
 - jsdoc
 
-  ### TS
-  - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
-  - typescript intro [^5] [^6] [^7]
-  - convert js program to ts
 
-## HTML-CSS-TS
+
+## HTML-CSS-JS
 
 - Full website with multipage routing features and design
 
-## git / github
-
-- git intro [^8]
-- first github project
 
 ## Vue3
 
@@ -54,20 +47,21 @@
 - setup script
 - component lifecycle
 
-## React (native)
+### TS
+  - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+  - typescript intro [^5] [^6] [^7]
+  - convert js program to ts
 
-- intro 
-- jsx
-- useEffect / Lifecycle Hooks
-
-##  SCSS
+### SCSS
 
 - intro [^10]
 - convert css file to scss 
 
-## SQL
-- intro
-- ERM
+
+## git / github
+
+- git intro [^8]
+- first github project
 
 ## php
 
@@ -75,6 +69,16 @@
 - laravel
 - eloquent
 - testing (unit tests)
+
+## SQL
+- intro
+- ERM
+
+## React (native)
+
+- intro 
+- jsx
+- useEffect / Lifecycle Hooks
 
 ## Sonstiges
 
