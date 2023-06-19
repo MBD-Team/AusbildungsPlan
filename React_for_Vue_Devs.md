@@ -882,9 +882,7 @@ export default {
 </script>
 ```
 
-###
-
-15. Data Fetching
+### 15. Data Fetching
 
 When fetching data an early return can be used to display a loading component instead of v-if + v-else.
 
