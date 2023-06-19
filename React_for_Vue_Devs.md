@@ -884,32 +884,33 @@ export default {
 
 ###
 
-15. Suspense for Data Fetching
+15. Data Fetching
 
-Suspense and async operations can be typed with TypeScript to ensure that the fetched data is of the correct type.
+When fetching data an early return can be used to display a loading component instead of v-if + v-else.
 
 React:
 ```tsx
-import React, { Suspense } from 'react';
-
-const fetchData = async (): Promise<string> => {
-  // fetch data
-};
-
-const DataComponent = () => {
-  const data = fetchData(); // assume this function suspends
-
-  return (
-    <div>{data}</div>
-  );
+function Loading() {
+  return <div>Loading...</div>
 }
 
 function App() {
-  return (
-    <Suspense fallback={<div>Loading...</div>}>
-      <DataComponent />
-    </Suspense>
-  );
+  const [loading,setLoading] = useState(true)
+  const [data,setData] = useState<string | null>(null)
+
+  const fetchData = async (): Promise<string> => {
+    // fetch data
+  };
+
+  useEffect(async () => {
+    setData(await fetchData());
+    loading.value = false;
+  }, [])
+
+  if(loading)
+    return <Loading />
+
+  return <div>{data}</div>
 }
 ```
 
@@ -921,7 +922,7 @@ Vue:
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue';
+import { ref, onMounted } from 'vue';
 
 const fetchData = async (): Promise<string> => {
   // fetch data
@@ -930,10 +931,10 @@ const fetchData = async (): Promise<string> => {
 const loading = ref(true);
 const data = ref<string | null>(null);
 
-(async () => {
+onMounted(async () => {
   data.value = await fetchData();
   loading.value = false;
-})();
+});
 </script>
 ```
 
