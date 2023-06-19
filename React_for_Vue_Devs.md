@@ -893,8 +893,8 @@ function Loading() {
 }
 
 function App() {
-  const [loading,setLoading] = useState(true)
-  const [data,setData] = useState<string | null>(null)
+  const [loading,setLoading] = useState(true);
+  const [data,setData] = useState<string | null>(null);
 
   const fetchData = async (): Promise<string> => {
     // fetch data
@@ -902,13 +902,13 @@ function App() {
 
   useEffect(async () => {
     setData(await fetchData());
-    loading.value = false;
+    setLoading(false);
   }, [])
 
   if(loading)
-    return <Loading />
+    return <Loading />;
 
-  return <div>{data}</div>
+  return <div>{data}</div>;
 }
 ```
 
