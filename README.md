@@ -14,12 +14,14 @@
 - (jeweils einzeln erklären mit beispielen)
 - abfragen der vorkenntnisse
 - variablen und datentypen 
-- boolean falsy und truthy und == / ===
-- type coersion
-- objekte und arrays in depth
+- type coercion
+    - boolean falsy und truthy
+    - operatoren und == / ===
 - statements (if,else,for,while)
+- objekte und arrays in depth
 - functions
-- projekt console only (todolist oder so)
+- functional programming
+- projekt console only (todolist oder so) - nodemon
 - fremden code verstehen (den des jeweils anderen kommentieren evtl verbesserungsvorschläge)
 
 ## 2. HTML (1 Woche)
