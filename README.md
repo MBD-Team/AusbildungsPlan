@@ -48,7 +48,7 @@
 ## 4.5 Advanced JavaScript
 - async/await
 - exceptions try/catch
-- spread
+- spread/destructure
 - loose equality ==
 - debugger
 - module system, import export
