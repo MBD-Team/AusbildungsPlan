@@ -6,20 +6,22 @@
     - windows !!!
     - vscode 
     - docker
-    - etc.
 
 ## 0.5 CTRL + C & CTRL + V
 
 ## 1. JS (2 Wochen)
 - (jeweils einzeln erklären mit beispielen)
 - abfragen der vorkenntnisse
-- variablen und datentypen 
-- type coercion
-    - boolean falsy und truthy
-    - operatoren und == / ===
-- statements (if,else,for,while)
+- "dev tools"
+- variablen und datentypen
+    - "primitive" "literal" "expression" "operators", vergleiche, "template string"
+- klopapier analogie null undefined 0 
+- "type coercion"
+    - boolean "falsy" und "truthy"
+- statements (block,if,else,for,while)
 - objekte und arrays in depth
-- functions
+- "functions", function expressions, "arrow functions", "arguments/parameters"
+- "scopes", global, function, block
 - functional programming
 - projekt console only (todolist oder so) - nodemon
 - fremden code verstehen (den des jeweils anderen kommentieren evtl verbesserungsvorschläge)
@@ -43,6 +45,13 @@
 - primitives (kurzerklärung)
 - typed functions (kurzerklärung)
 - interface & Type (kurzerklärung)
+## 4.5 Advanced JavaScript
+- async/await
+- exceptions try/catch
+- spread
+- loose equality ==
+- debugger
+- module system, import export
  
 ## 5. Vue composition-api (1 monat)
 - directives (v-if,v-else,v-for)
@@ -51,8 +60,4 @@
 - fremden code verstehen (den des jeweils anderen kommentieren evtl verbesserungsvorschläge)
 
 
-<!-- 
-    - try catch
-    - js execution loop (setTimeout,async,await) 
-    - vue lifecycle
--->
+- vue lifecycle
