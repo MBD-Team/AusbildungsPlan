@@ -3,9 +3,14 @@
 ## 0. Arbeitsplatz einrichten und kennenlernen(1 Woche)
 - pc aufbauen
 - software setup
-    - windows !!!
+    - windows 11 (schnellstart deaktivieren) + upgrade aller anderen rechner auf 11
     - vscode 
-    - docker
+    - docker + wsl-2
+    - KeyPass
+    - HeidiSQL
+    - Nextcloud
+    - Discord
+    - Github account
 
 ## 0.5 CTRL + C & CTRL + V
 
@@ -61,3 +66,6 @@
 
 
 - vue lifecycle
+- SEO
+- Webdesign
+  - responsive/intuitive
