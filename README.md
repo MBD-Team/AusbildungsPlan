@@ -1,71 +1,71 @@
 # AusbildungsPlan
 
-## 0. Arbeitsplatz einrichten und kennenlernen(1 Woche)
+## 0. Arbeitsplatz einrichten und kennenlernen
 - pc aufbauen
 - software setup
-    - windows 11 (schnellstart deaktivieren) + upgrade aller anderen rechner auf 11
-    - vscode 
-    - docker + wsl-2
+    - windows 10
+    - vscode , dark+ theme
+    - docker Desktop + wsl-2
     - KeyPass
     - HeidiSQL
     - Nextcloud
     - Discord
-    - Github account
+    - Github
+    - workspace einrichten
 
-## 0.5 CTRL + C & CTRL + V
-
-## 1. JS (2 Wochen)
-- (jeweils einzeln erklären mit beispielen)
+## 1. JS
 - abfragen der vorkenntnisse
 - "dev tools"
-- variablen und datentypen
-    - "primitive" "literal" "expression" "operators", vergleiche, "template string"
-- klopapier analogie null undefined 0 
-- "type coercion"
-    - boolean "falsy" und "truthy"
-- statements (block,if,else,for,while)
-- objekte und arrays in depth
-- "functions", function expressions, "arrow functions", "arguments/parameters"
-- "scopes", global, function, block
+- datentypen 
+    - primitives
+        - string, number, boolean, null, undefined
+    - complex
+        - array, object
+- variablen, literals
+- expressions, operators, template string
+- statements 
+    - if, else, for/for of, while
+- functions, function expressions, arrow functions, arguments/parameters
+- scopes
+    - global, local | function, block
 - functional programming
-- projekt console only (todolist oder so) - nodemon
-- fremden code verstehen (den des jeweils anderen kommentieren evtl verbesserungsvorschläge)
+    - map, filter, find, findIndex
+    - reduce, split, join, sort
+### console only project
+- todoList, vocabularyList, miniGame
 
-## 2. HTML (1 Woche)
+## 2. HTML/CSS
 - abfragen der vorkenntnisse
 - aufbau von html
 - DOM
-- div,span,section,main,nav,aside
-- table,tr,td,tbody,thead
-- p,h1:h6
-- form,a,button,input,label
+- [Udemy tutorial](https://www.udemy.com/home/my-courses/learning/)
+### console only project with webview
 
-## 3. CSS (1 Woche)
-- abfragen der vorkenntnisse
-- layout (flex,grid,table)(maybe nur Bootstrap nicht css)
-
-## 4. Typescript (crashkurs)
+## 3. Typescript
 - JS wiederholung
-- was ist typescript
-- primitives (kurzerklärung)
-- typed functions (kurzerklärung)
-- interface & Type (kurzerklärung)
-## 4.5 Advanced JavaScript
-- async/await
-- exceptions try/catch
-- spread/destructure
-- loose equality ==
-- debugger
+- [Typescript intro](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- "type coercion"
+    - ==
+    - booleanish -> falsy / truthy
+- type annotations / type assertions
+- interface & Type 
+- typed functions
+### convert JS project to TS
+
+## 4 Advanced JavaScripts
+- async / await
+    - event loop
+    - type Promise
+- try / catch 
+- exceptions, new Error()
+- spread / destructure
 - module system, import export
+- debugger
  
-## 5. Vue composition-api (1 monat)
-- directives (v-if,v-else,v-for)
+## 5. Vue composition-api
+- directives
+    - v-if, v-else, v-for
 - v-model, attribute binds
-- projekt (todolist oder so)
-- fremden code verstehen (den des jeweils anderen kommentieren evtl verbesserungsvorschläge)
-
-
 - vue lifecycle
-- SEO
-- Webdesign
-  - responsive/intuitive
+### JS project with Vue
+- fremden code verstehen (den des jeweils anderen kommentieren evtl verbesserungsvorschläge)
