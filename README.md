@@ -1,6 +1,6 @@
 # AusbildungsPlan
 
-## 0. Arbeitsplatz einrichten und kennenlernen
+## 0. Arbeitsplatz einrichten und kennenlernen (1 tag)
 - pc aufbauen
 - software setup
     - windows 10
@@ -10,18 +10,19 @@
     - HeidiSQL
     - Nextcloud
     - Discord
+    - git
     - Github
     - workspace einrichten
 
-## 1. JS
+## 1. JS (1 Woche)
 - abfragen der vorkenntnisse
-- "dev tools"
+- dev tools
+- variablen, literals
 - datentypen 
     - primitives
         - string, number, boolean, null, undefined
-    - complex
+    - composite
         - array, object
-- variablen, literals
 - expressions, operators, template string
 - statements 
     - if, else, for/for of, while
@@ -38,7 +39,7 @@
 - abfragen der vorkenntnisse
 - aufbau von html
 - DOM
-- [Udemy tutorial](https://www.udemy.com/home/my-courses/learning/)
+- [Udemy tutorial](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506#overview)
 ### console only project with webview
 
 ## 3. Typescript
@@ -48,7 +49,7 @@
     - ==
     - booleanish -> falsy / truthy
 - type annotations / type assertions
-- interface & Type 
+- interface & type (prefer type)
 - typed functions
 ### convert JS project to TS
 
@@ -56,13 +57,14 @@
 - async / await
     - event loop
     - type Promise
-- try / catch 
+- try / catch / finally
 - exceptions, new Error()
 - spread / destructure
 - module system, import export
 - debugger
  
 ## 5. Vue composition-api
+- [Udemy tutorial](https://www.udemy.com/course/the-vue-3-bootcamp-the-complete-developer-guide/learn/lecture/33835400#overview)
 - directives
     - v-if, v-else, v-for
 - v-model, attribute binds
