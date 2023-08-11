@@ -26,31 +26,47 @@
 - expressions, operators, template string
 - statements 
     - if, else, for/for of, while
+
+### textAdventure console only
 - functions, function expressions, arrow functions, arguments/parameters
 - scopes
     - global, local | function, block
+
+### eg. todoList console only
+
 - functional programming
     - map, filter, find, findIndex
     - reduce, split, join, sort
-### console only project
-- todoList, vocabularyList, miniGame
 
-## 2. HTML/CSS
+### eg. vocabularyList && TicTacToe console only
+- [dotfiles](https://github.com/MBD-Team/dotfiles) 
+    - remove type-checked from plugins (because js only)
+
+## 2. HTML/CSS 
 - abfragen der vorkenntnisse
 - aufbau von html
 - DOM
-- [Udemy tutorial](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506#overview)
-### console only project with webview
+- [Udemy tutorial 2-10](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506#overview)
+
+### Browser projects
+- [dotfiles](https://github.com/MBD-Team/dotfiles)
+- eg. todoList, vocabularyList, TicTacToe, Minesweeper
 
 ## 3. Typescript
 - JS wiederholung
 - [Typescript intro](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- type annotations / type assertions
+- interface & type (prefer type)
+
+### Browser project conversion to TS
+
+### solo TS projects
+- eg. TicTacToe, TowerDefense
+
+- typed functions 
 - "type coercion"
     - ==
     - booleanish -> falsy / truthy
-- type annotations / type assertions
-- interface & type (prefer type)
-- typed functions
 ### convert JS project to TS
 
 ## 4 Advanced JavaScripts
