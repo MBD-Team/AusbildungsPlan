@@ -276,3 +276,6 @@
 - Im Zentrum ethischer Aspekte steht die Würde aller Menschen sowie deren Integrität. Diese ist für alle direkt und indirekt Betroffenen der IT-Lösungen kurz-, mittel- und langfristig zu gewährleisten
 - Im Rahmen von Nachhaltigkeit sind auch Auswirkungen auf alles Lebendige (Umwelt, Pflanzen, Tiere, Lebensräume) zu reflektieren
 - Ergänzend dazu sind auch allgemeine und betriebliche Compliance-Regelungen zu berücksichtigen 
+
+
+<hr>
