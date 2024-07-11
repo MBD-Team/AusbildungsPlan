@@ -1,103 +1,135 @@
 ### Web Development
 
-- [ ] 1. Internet
-- [ ] 2. Internet Protocol (IP) Suite
-- [ ] 3. IP Address
-- [ ] 4. Transmission Control Protocol (TCP)
-- [ ] 5. Packets and Data Link (Open Systems Interconnection(OSI) Model)
-- [ ] 6. World Wide Web (WWW)
-- [ ] 7. Hypertext Transfer Protocol (HTTP)
-- [ ] 8. Uniform Resource Locator (URL)
-- [ ] 9. Browser
-- [ ] 10. Client
-- [ ] 11. Server
-- [ ] 12. HTTP Request
-- [ ] 13. HTTP Response
-- [ ] 14. HTTP Messages
-- [ ] 15. Domain Name
-- [ ] 16. Registrar
-- [ ] 17. Internet Corporation for Assigned Names and Numbers (ICANN)
-- [ ] 18. Domain Name System (DNS)
-- [ ] 19. HyperText Markup Language (HTML)
-- [ ] 20. Dev Tools
-- [ ] 21. Code Editor
-- [ ] 22. HTML Elements
-- [ ] 23. HTML Forms
-- [ ] 24. HTML Attributes
-- [ ] 25. Anchor tag
-- [ ] 26. Document Object Model (DOM)
-- [ ] 27. Head
-- [ ] 28. Body
-- [ ] 29. Accessibility and Semantics
-- [ ] 30. Div tag
-- [ ] 31. Cascading Style Sheets (CSS)
-- [ ] 32. Inline Style
-- [ ] 33. CSS properties
-- [ ] 34. Cascade
-- [ ] 35. Style Tag
-- [ ] 36. Selector
-- [ ] 37. Class
-- [ ] 38. CSS Specificity
-- [ ] 39. External Stylesheet
-- [ ] 40. Box Model
-- [ ] 41. Block
-- [ ] 42. Inline
-- [ ] 43. Relative positioning
-- [ ] 44. Absolute positioning
-- [ ] 45. Fixed positioning
-- [ ] 46. Responsive Layout
-- [ ] 47. Media Query
-- [ ] 48. Flexbox
-- [ ] 49. Grid Layout
-- [ ] 50. calc() function
-- [ ] 51. Custom Properties
-- [ ] 52. Syntactically Awesome Stylesheets (SASS)
-- [ ] 53. JavaScript
-- [ ] 54. Script Tag
-- [ ] 55. Defer attribute
-- [ ] 56. ECMAScript
-- [ ] 57. Let keyword
-- [ ] 58. Const keyword
-- [ ] 59. Dynamically Typed
-- [ ] 60. TypeScript
-- [ ] 61. Events
-- [ ] 62. Browser API
-- [ ] 63. Event Listener
-- [ ] 64. Functions and Data Structures
-- [ ] 65. Array
-- [ ] 66. Object
-- [ ] 67. Primitive types
-- [ ] 68. Prototypal Inheritance
-- [ ] 69. Classes
-- [ ] 70. Frontend Framework
-- [ ] 71. Components
-- [ ] 72. Declarative Code
-- [ ] 73. Imperative Code
-- [ ] 74. NodeJS
-- [ ] 75. V8 Engine
-- [ ] 76. Event Loop
-- [ ] 77. Node Package Manager (NPM)
-- [ ] 78. Module
-- [ ] 79. Export statement
-- [ ] 80. Import statement
-- [ ] 81. Server-Side Rendering (SSR)
-- [ ] 82. HTTP Methods
-- [ ] 83. Status Code
-- [ ] 84. 404 Not Found
-- [ ] 85. Single-page application (SPA)
-- [ ] 86. JavaScript Object Notation (JSON)
-- [ ] 87. Static-Site Generation (SSG)
-- [ ] 88. Hydration
-- [ ] 89. First Contentful Paint (FCP) & Time to Interactive (TTI)
-- [ ] 90. Fullstack Framework
-- [ ] 91. Module Bundlers
-- [ ] 92. Linter
-- [ ] 93. Database
-- [ ] 94. User Authentication
-- [ ] 95. Web Server
-- [ ] 96. Localhost
-- [ ] 97. Cloud
-- [ ] 98. Containers
-- [ ] 99. Infrastructure as a service (IAAS) / Platform-as-a-Service (PAAS) / Backend-as-a-Service (BAAS) / Software as a service (SAAS)
-- [ ] 100. World Wide Web-based on blockchain technology (Web3)
-- [ ] 101. Google it!
+### Internet Grundlagen
+- [ ] Internet
+- [ ] Internet Protocol (IP) Suite
+- [ ] IP Address
+- [ ] Transmission Control Protocol (TCP)
+- [ ] Packets and Data Link (Open Systems Interconnection(OSI) Model)
+- [ ] Domain Name System (DNS)
+- [ ] Internet Corporation for Assigned Names and Numbers (ICANN)
+- [ ] Registrar
+- [ ] Web Server
+- [ ] Cloud
+- [ ] Containers
+- [ ] Infrastructure as a service (IAAS) / Platform-as-a-Service (PAAS) / Backend-as-a-Service (BAAS) / Software as a service (SAAS)
+
+### World Wide Web (WWW)
+- [ ] World Wide Web (WWW)
+- [ ] Browser
+- [ ] Client
+- [ ] Server
+- [ ] HTTP Request
+- [ ] HTTP Response
+- [ ] HTTP Messages
+- [ ] Hypertext Transfer Protocol (HTTP)
+- [ ] HTTP Methods
+- [ ] Status Codes
+- [ ] 404 Not Found
+
+### Web Addresses
+- [ ] Uniform Resource Locator (URL)
+- [ ] Domain Name
+
+### Tools and Editors
+- [ ] Dev Tools
+- [ ] Code Editor
+
+### HTML (HyperText Markup Language)
+- [ ] HyperText Markup Language (HTML)
+- [ ] HTML Elements
+- [ ] HTML Forms
+- [ ] HTML Attributes
+- [ ] Anchor tag
+- [ ] Document Object Model (DOM)
+- [ ] Head
+- [ ] Body
+- [ ] Div tag
+- [ ] Accessibility and Semantics
+
+### CSS (Cascading Style Sheets)
+- [ ] Cascading Style Sheets (CSS)
+- [ ] Inline Style
+- [ ] CSS properties
+- [ ] Cascade
+- [ ] Style Tag
+- [ ] Selector
+- [ ] Class
+- [ ] CSS Specificity
+- [ ] External Stylesheet
+- [ ] Box Model
+- [ ] Block
+- [ ] Inline
+- [ ] Relative positioning
+- [ ] Absolute positioning
+- [ ] Fixed positioning
+- [ ] Responsive Layout
+- [ ] Media Query
+- [ ] Container Query
+- [ ] Flexbox
+- [ ] Grid Layout
+- [ ] calc() function
+- [ ] Custom Properties
+- [ ] Syntactically Awesome Stylesheets
+
+### JavaScript
+- [ ] JavaScript
+- [ ] Script Tag
+- [ ] Defer attribute
+- [ ] ECMAScript
+- [ ] Let keyword
+- [ ] Const keyword
+- [ ] Dynamically Typed
+- [ ] TypeScript
+- [ ] Functions and Data Structures
+- [ ] Functions
+- [ ] Array
+- [ ] Object
+- [ ] Primitive types
+- [ ] Prototypal Inheritance
+- [ ] Classes
+- [ ] Events
+- [ ] Browser API
+- [ ] Event Listener
+- [ ] V8 Engine
+- [ ] Event Loop
+
+### Frontend Frameworks & Libraries
+- [ ] Frontend Framework
+- [ ] Components
+- [ ] Declarative Code
+- [ ] Imperative Code
+
+### Modern JavaScript Practices
+- [ ] NodeJS
+- [ ] Node Package Manager (NPM)
+- [ ] Module
+- [ ] Export statement
+- [ ] Import statement
+
+### Web Performance & Rendering
+- [ ] Server-Side Rendering (SSR)
+- [ ] Single-page application (SPA)
+- [ ] Static-Site Generation (SSG)
+- [ ] Hydration
+- [ ] First Contentful Paint (FCP) & Time to Interactive (TTI)
+
+### JSON (JavaScript Object Notation)
+- [ ] JavaScript Object Notation (JSON)
+
+### Fullstack & Backend Development
+- [ ] Fullstack Framework
+- [ ] Module Bundlers
+- [ ] Database
+- [ ] User Authentication
+- [ ] Localhost
+
+### Miscellaneous & Advanced Concepts
+- [ ] Google it!
+- [ ] Web Server
+- [ ] Static-Site Generation (SSG)
+- [ ] Infrastructure as a service (IAAS) / Platform-as-a-Service (PAAS) / Backend-as-a-Service (BAAS) / Software as a service (SAAS)
+- [ ] World Wide Web-based on blockchain technology (Web3)
+
+### Best Practices & Tools
+- [ ] Linter
